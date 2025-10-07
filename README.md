@@ -1,4 +1,4 @@
 # gauravsingh-demo
 This is my first Git Repository.
 <br>
-Author - Gaurav Singh
+Author - Gaurav Singh Rajput
